@@ -14,6 +14,7 @@
 - [CreateScheduledTask.bat](src/CreateScheduledTask.bat) - タスクスケジューラのタスクを作成します。
 - [DeleteScheduledTask.bat](src/DeleteScheduledTask.bat) - タスクスケジューラのタスクを削除します。
 - [ToggleScheduledTask.bat](src/ToggleScheduledTask.bat) - タスクスケジューラのタスクを作成/削除します。
+- [DotnetFormat.bat](src/DotnetFormat.bat) - カレントディレクトリ以下に存在する全てのslnファイルに対して、dotnet formatを実行します。
 
 ## ライセンス
 

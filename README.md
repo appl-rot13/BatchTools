@@ -14,6 +14,7 @@ A collection of batch tools.
 - [CreateScheduledTask.bat](src/CreateScheduledTask.bat) - Create a task in Task Scheduler.
 - [DeleteScheduledTask.bat](src/DeleteScheduledTask.bat) - Delete a task in Task Scheduler.
 - [ToggleScheduledTask.bat](src/ToggleScheduledTask.bat) - Create/Delete a task in Task Scheduler.
+- [DotnetFormat.bat](src/DotnetFormat.bat) - Run dotnet format on all .sln files in the current directory and all its subdirectories.
 
 ## License
 
